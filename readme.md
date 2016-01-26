@@ -1,0 +1,3 @@
+## @ftbl/templates
+
+Template helper.
