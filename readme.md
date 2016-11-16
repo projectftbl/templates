@@ -1,3 +1,3 @@
-## @ftbl/templates
+## @recipher/templates
 
 Template helper.
